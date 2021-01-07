@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactsApp</string>
+    <string name="contact_permission_rationale">Need contacts read permission for fetching and displaying contacts</string>
+    <string name="create_contact">Create Contact</string>
+    <string name="create">create</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="cancel">cancel</string>
+</resources>
